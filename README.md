@@ -39,7 +39,7 @@ Suggested marketing strategies for each segment (e.g., targeted promotions, loya
 **🛠️ How to Run the Project**
 1. Clone the Repository:
 
-git clone https://github.com/hemalatha-bm/Customer-Segmentation-using-clustering-techniques
+ git clone https://github.com/hemalatha-bm/Customer-Segmentation-using-clustering-techniques
 
 2. Install Dependencies: Create a virtual environment and install the required packages:
 
@@ -60,12 +60,12 @@ Tailored marketing strategies for each customer segment.
 Optimized resource allocation for businesses based on segment analysis.
 Visualizations: Various plots and charts that help interpret the clusters, such as scatter plots for cluster separation and dendrograms for hierarchical clustering.
 
-**Project Links**
+**Project Links**:
 💻 GitHub Repository: https://github.com/hemalatha-bm/Customer-Segmentation-using-clustering-techniques
 📊 Jupyter Notebooks: Step-by-step analysis and code execution.
 
 
-**Dependencies**
+**Dependencies**:
 Python 3.x
 Pandas
 NumPy
